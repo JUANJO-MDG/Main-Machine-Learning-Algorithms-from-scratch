@@ -66,7 +66,7 @@ Este proyecto no es solo una colección de scripts; es una demostración de una 
 
 ## 🛠️ Requisitos de Instalación
 
-Para ejecutar este proyecto, solo necesitas tener instaladas los siguientes requerimientos:
+Para ejecutar este proyecto, solo necesitas tener instaladas los requerimientos:
 
 ```bash
 pip install -r requirements.txt
