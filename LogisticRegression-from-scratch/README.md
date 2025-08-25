@@ -75,7 +75,7 @@ Este proyecto sirve como una excelente base para entender cómo funcionan los al
 
 ## 🛠️ Requisitos de Instalación
 
-Para ejecutar este proyecto, necesitarás instalar los requirements.txt:
+Para ejecutar este proyecto, necesitarás instalar los `requirements.txt`:
 
 ```bash
 pip install -r requirements.txt
