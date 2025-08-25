@@ -1,5 +1,3 @@
-"""
-
 # 🎓 Implementación de Naive Bayes para Clasificación Categórica
 
 Este proyecto es una implementación **completa y didáctica** del algoritmo de clasificación **Naive Bayes** desde cero, utilizando la librería `pandas` para la manipulación de datos. A diferencia de las librerías de alto nivel como `scikit-learn`, esta implementación se centra en construir el modelo paso a paso para comprender a fondo sus principios matemáticos y la lógica de la programación.
