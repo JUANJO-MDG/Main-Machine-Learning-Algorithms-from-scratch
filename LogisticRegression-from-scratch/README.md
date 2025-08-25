@@ -55,7 +55,7 @@ La matriz de confusión proporciona una visión detallada de los resultados del 
 
 ```
 [[60   3]
-[  5 103]]
+[ 5 103]]
 ```
 
 - **Verdaderos Negativos (TN = 60)**: El modelo predijo correctamente que 60 pacientes no tenían cáncer.
