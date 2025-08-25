@@ -42,7 +42,6 @@ Las **variables predictoras** clave para el modelo incluyen:
 Las **variables objetivo** son:
 
 - **`FUEL CONSUMPTION`**: Consumo de combustible combinado en L/100 km.
-- **`EMISSIONS`**: Emisiones de CO2 en gramos por kilómetro.
 
 ---
 
