@@ -19,13 +19,7 @@ El corazón de este proyecto reside en entender la **Regresión Lineal** desde s
 
 ## 🛠️ Metodología y Componentes del Modelo
 
-La implementación de este modelo se basa en la programación orientada a objetos (POO), encapsulando la lógica del algoritmo en una clase para un código más limpio y reutilizable.
-
-### 1. Implementación de la Clase `LinearRegression`
-
-La clase del modelo encapsula los métodos esenciales para el entrenamiento y la predicción, permitiendo un flujo de trabajo claro.
-
-### 2. Fundamentos Matemáticos
+### 1. Fundamentos Matemáticos
 
 El modelo opera bajo el principio de encontrar la línea que mejor se ajusta a los datos, minimizando la distancia vertical entre los puntos de datos y la línea.
 
@@ -36,7 +30,7 @@ El modelo opera bajo el principio de encontrar la línea que mejor se ajusta a l
   donde `m` es la pendiente (o vector de pesos, **w**) y `b` es el intercepto (o sesgo, **b**).
 - **Función de Pérdida (MSE)**: Se utiliza el **Error Cuadrático Medio** para medir el error del modelo. La implementación busca minimizar este valor para encontrar los parámetros óptimos (`m` y `b`).
 
-### 3. Entrenamiento (`fit`)
+### 3. Entrenamiento
 
 El entrenamiento es un proceso iterativo de optimización a través del **descenso de gradiente**. En cada iteración:
 
