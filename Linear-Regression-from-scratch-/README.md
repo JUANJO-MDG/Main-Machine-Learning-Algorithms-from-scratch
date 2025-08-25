@@ -1,5 +1,3 @@
-"""
-
 # 📉 Implementación Desde Cero de la Regresión Lineal
 
 Este proyecto es una **implementación completa y educativa de la Regresión Lineal** construida desde cero en Python. El objetivo principal es desmitificar este algoritmo fundamental de machine learning, permitiendo que comprendas su funcionamiento interno sin depender de librerías de alto nivel para el núcleo del cálculo. El notebook te guía paso a paso a través de la preparación de los datos, el entrenamiento del modelo, la evaluación de su rendimiento y la visualización de los resultados.
