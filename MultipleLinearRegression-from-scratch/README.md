@@ -1,5 +1,3 @@
-"""
-
 # 🚗💨 Análisis y Predicción de Emisiones de Vehículos (2000-2022)
 
 Este proyecto es un **análisis exhaustivo y didáctico** enfocado en la comprensión y predicción del **consumo de combustible** y las **emisiones de CO2** de vehículos. El núcleo del proyecto es la implementación de un modelo de **regresión lineal múltiple** para desentrañar las relaciones entre las características de los vehículos y su impacto en el medio ambiente. A diferencia de un simple uso de librerías, este enfoque paso a paso muestra el proceso completo de un proyecto de ciencia de datos, desde la exploración inicial hasta el modelado predictivo.
