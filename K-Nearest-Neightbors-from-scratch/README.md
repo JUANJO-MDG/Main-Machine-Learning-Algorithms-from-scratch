@@ -6,14 +6,6 @@ El proyecto abarca todas las etapas del ciclo de vida del aprendizaje automátic
 
 ---
 
-## 📂 Estructura del Repositorio
-
-- **`IRIS.csv`**: El conjunto de datos original, que contiene registros de diferentes especies de flores Iris.
-- **`knn.ipynb`**: Un notebook de Jupyter con la implementación del modelo KNN, el entrenamiento y la evaluación del modelo.
-- **`README.md`**: El archivo que estás leyendo, con toda la información sobre el proyecto.
-
----
-
 ## 🔬 Análisis Exploratorio de Datos (EDA)
 
 Antes de construir el modelo, se realizó un análisis exploratorio de datos para comprender mejor las variables y su relación. Los pasos clave incluyeron:
