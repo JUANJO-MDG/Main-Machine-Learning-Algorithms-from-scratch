@@ -53,8 +53,10 @@ El modelo se entrenó con una tasa de aprendizaje de `0.02` y `10000` épocas. L
 
 La matriz de confusión proporciona una visión detallada de los resultados del modelo:
 
+```
 [[60   3]
 [  5 103]]
+```
 
 - **Verdaderos Negativos (TN = 60)**: El modelo predijo correctamente que 60 pacientes no tenían cáncer.
 - **Verdaderos Positivos (TP = 103)**: El modelo predijo correctamente que 103 pacientes sí tenían cáncer.
